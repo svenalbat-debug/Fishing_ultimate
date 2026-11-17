@@ -1,0 +1,153 @@
+{
+  "updated": "2026-11-03",
+  "items": [
+    {
+      "id": "event-magdeburger-angeltage-2026",
+      "category": "event",
+      "title": "Magdeburger Angeltage",
+      "text": "Angelmesse mit Tipps, Trends und Zubehör, besonders für Meeres- und Raubfischangler. Laut Messekalender findet sie am 7. und 8. November 2026 statt.",
+      "date": "2026-11-07",
+      "endDate": "2026-11-08",
+      "location": "Magdeburg",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/11819/magdeburg/magdeburger-meeres-und-raubfischangeltage/info",
+      "validUntil": "2026-11-09",
+      "i18n": {
+        "en": {
+          "text": "Angling fair with tips, trends and tackle, especially for sea and predator anglers. According to the trade fair calendar it takes place on November 7 and 8, 2026."
+        },
+        "da": {
+          "text": "Fiskemesse med tips, trends og udstyr, især for hav- og rovfiskere. Ifølge messekalenderen finder den sted den 7. og 8. november 2026."
+        }
+      }
+    },
+    {
+      "id": "event-angelmesse-duisburg-2027",
+      "category": "event",
+      "title": "Angelmesse Duisburg",
+      "text": "Die Messe für Anglerinnen und Angler im Landschaftspark Duisburg-Nord. Der Termin ist laut Messekalender noch geschätzt.",
+      "date": "2027-01-15",
+      "dateText": "voraussichtlich Januar 2027",
+      "location": "Duisburg, Landschaftspark Duisburg-Nord",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/22205/duisburg/angelmesse-duisburg/info",
+      "validUntil": "2027-02-01",
+      "i18n": {
+        "en": {
+          "text": "The fair for anglers at Landschaftspark Duisburg-Nord. According to the trade fair calendar, the date is still an estimate.",
+          "dateText": "expected January 2027"
+        },
+        "da": {
+          "text": "Messen for lystfiskere i Landschaftspark Duisburg-Nord. Ifølge messekalenderen er datoen endnu kun et estimat.",
+          "dateText": "forventet januar 2027"
+        }
+      }
+    },
+    {
+      "id": "event-angel-expo-frankfurt-oder-2027",
+      "category": "event",
+      "title": "ANGEL EXPO Frankfurt (Oder)",
+      "text": "Die Angelmesse in Brandenburg mit Ruten, Futter, Ködern, Booten, Angelreisen und Fachzeitschriften.",
+      "date": "2027-01-30",
+      "endDate": "2027-01-31",
+      "location": "Frankfurt (Oder), Messegelände",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/18612/frankfurt-oder/angel-expo-frankfurt-an-der-oder/info",
+      "validUntil": "2027-02-01",
+      "i18n": {
+        "en": {
+          "text": "The angling fair in Brandenburg with rods, groundbait, lures, boats, fishing trips and trade magazines.",
+          "location": "Frankfurt (Oder), exhibition grounds"
+        },
+        "da": {
+          "text": "Fiskemessen i Brandenburg med stænger, lokkefoder, kunstagn, både, fiskerejser og fagblade.",
+          "location": "Frankfurt (Oder), messeområdet"
+        }
+      }
+    },
+    {
+      "id": "event-fisch-und-angel-dortmund-2027",
+      "category": "event",
+      "title": "FISCH & ANGEL Dortmund",
+      "text": "Messe für Angelfischerei mit Angelausrüstung, Zubehör, Bekleidung und Angelreisen.",
+      "date": "2027-02-02",
+      "endDate": "2027-02-07",
+      "location": "Dortmund, Westfalenhallen",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/15424/dortmund/fisch-und-angel/info",
+      "validUntil": "2027-02-08",
+      "i18n": {
+        "en": {
+          "text": "Fair for recreational angling with fishing gear, accessories, clothing and fishing trips."
+        },
+        "da": {
+          "text": "Messe for lystfiskeri med fiskeudstyr, tilbehør, beklædning og fiskerejser."
+        }
+      }
+    },
+    {
+      "id": "event-faszination-angeln-lingen-2027",
+      "category": "event",
+      "title": "Faszination Angeln Lingen",
+      "text": "Angelmesse mit Vorträgen bekannter Angelspezialisten und Workshops rund um den Angelsport.",
+      "date": "2027-02-20",
+      "endDate": "2027-02-21",
+      "location": "Lingen (Ems)",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/16213/lingen-ems/faszination-angeln/info",
+      "validUntil": "2027-02-22",
+      "i18n": {
+        "en": {
+          "text": "Angling fair with talks by well-known angling specialists and workshops on everything to do with angling."
+        },
+        "da": {
+          "text": "Fiskemesse med foredrag af kendte fiskespecialister og workshops om lystfiskeri."
+        }
+      }
+    },
+    {
+      "id": "info-dorsch-ostsee-2026",
+      "category": "info",
+      "title": "Dorsch: Freizeitfischerei in der westlichen Ostsee 2026 verboten",
+      "text": "Das Land Schleswig-Holstein weist darauf hin, dass die Freizeitfischerei auf Dorsch in der Ostsee auch 2026 ganzjährig verboten ist. Das gilt auch in den Förden (Kieler Förde, Eckernförder Bucht, Flensburger Förde). Ausnahmen gibt es zum Beispiel für die Schlei binnenseitig der Verbindungslinie der Molenköpfe bei Schleimünde. Über die Regeln für 2027 berät der EU-Fischereirat Ende 2026.",
+      "date": "2026-01-09",
+      "sourceName": "Land Schleswig-Holstein",
+      "sourceURL": "https://www.schleswig-holstein.de/DE/Fachinhalte/F/fischerei/dorsch.html",
+      "validUntil": "2026-12-31",
+      "i18n": {
+        "en": {
+          "title": "Cod: recreational fishing in the western Baltic Sea banned in 2026",
+          "text": "The state of Schleswig-Holstein points out that recreational fishing for cod in the Baltic Sea remains banned year-round in 2026. This also applies in the fjords (Kiel Fjord, Eckernförde Bay, Flensburg Fjord). Exceptions exist, for example, for the Schlei on the inland side of the line connecting the pier heads at Schleimünde. The EU Fisheries Council will discuss the rules for 2027 at the end of 2026.",
+          "sourceName": "State of Schleswig-Holstein"
+        },
+        "da": {
+          "title": "Torsk: Lystfiskeri i den vestlige Østersø forbudt i 2026",
+          "text": "Delstaten Slesvig-Holsten gør opmærksom på, at lystfiskeri efter torsk i Østersøen også i 2026 er forbudt hele året. Det gælder også i fjordene (Kieler Förde, Eckernförder Bucht, Flensburger Förde). Der er undtagelser, for eksempel for Slien på den indre side af forbindelseslinjen mellem molehovederne ved Schleimünde. EU's fiskeriråd drøfter reglerne for 2027 i slutningen af 2026.",
+          "sourceName": "Delstaten Slesvig-Holsten"
+        }
+      }
+    },
+    {
+      "id": "info-hering-westliche-ostsee-2026",
+      "category": "info",
+      "title": "Westliche Ostsee: Heringsbestand weiter kritisch",
+      "text": "Nach Einschätzung des Internationalen Rates für Meeresforschung (ICES) befindet sich der Hering in der westlichen Ostsee weiterhin in einem kritischen Zustand. Die Bundesanstalt für Landwirtschaft und Ernährung hat für 2026 Sofortmaßnahmen bekanntgemacht, darunter Schließungszeiten für die Berufsfischerei vom 16. August bis 31. Oktober 2026. Informiere dich vor dem Heringsangeln bei der zuständigen Behörde über die aktuellen Vorgaben für Angler.",
+      "date": "2026-06-15",
+      "sourceName": "BLE, Bekanntmachung vom 15. Juni 2026",
+      "sourceURL": "https://www.lallf.de/fileadmin/media/PDF/fischer/Koll_Foerderung_Fischerei/Hering/Rechtsgrundlagen/Bundesanzeiger_Bekanntmachung_BLE.pdf",
+      "validUntil": "2026-12-31",
+      "i18n": {
+        "en": {
+          "title": "Western Baltic Sea: herring stock still critical",
+          "text": "According to the International Council for the Exploration of the Sea (ICES), the herring stock in the western Baltic Sea is still in a critical state. For 2026, the Federal Office for Agriculture and Food has announced emergency measures, including closed periods for commercial fishing from August 16 to October 31, 2026. Before fishing for herring, check the current rules for anglers with the responsible authority.",
+          "sourceName": "BLE, announcement of June 15, 2026"
+        },
+        "da": {
+          "title": "Vestlige Østersø: Sildebestanden fortsat kritisk",
+          "text": "Ifølge Det Internationale Havundersøgelsesråd (ICES) er sildebestanden i den vestlige Østersø fortsat i en kritisk tilstand. Det tyske forbundskontor for landbrug og fødevarer (BLE) har for 2026 bekendtgjort hasteforanstaltninger, herunder lukkeperioder for erhvervsfiskeriet fra den 16. august til den 31. oktober 2026. Tjek de gældende regler for lystfiskere hos den ansvarlige myndighed, før du fisker efter sild.",
+          "sourceName": "BLE, bekendtgørelse af 15. juni 2026"
+        }
+      }
+    }
+  ]
+}
