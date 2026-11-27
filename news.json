@@ -1,0 +1,290 @@
+{
+  "updated": "2026-11-27",
+  "items": [
+    {
+      "id": "event-angelmesse-duisburg-2027",
+      "category": "event",
+      "title": "Angelmesse Duisburg",
+      "text": "Die Messe für Anglerinnen und Angler im Landschaftspark Duisburg-Nord. Der Termin ist laut Messekalender noch geschätzt.",
+      "date": "2027-01-15",
+      "dateText": "voraussichtlich Januar 2027",
+      "location": "Duisburg, Landschaftspark Duisburg-Nord",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/22205/duisburg/angelmesse-duisburg/info",
+      "validUntil": "2027-02-01",
+      "i18n": {
+        "en": {
+          "text": "The fair for anglers at Landschaftspark Duisburg-Nord. According to the trade fair calendar, the date is still an estimate.",
+          "dateText": "expected January 2027"
+        },
+        "da": {
+          "text": "Messen for lystfiskere i Landschaftspark Duisburg-Nord. Ifølge messekalenderen er datoen endnu kun et estimat.",
+          "dateText": "forventet januar 2027"
+        }
+      }
+    },
+    {
+      "id": "event-angel-expo-frankfurt-oder-2027",
+      "category": "event",
+      "title": "ANGEL EXPO Frankfurt (Oder)",
+      "text": "Die Angelmesse in Brandenburg mit Ruten, Futter, Ködern, Booten, Angelreisen und Fachzeitschriften.",
+      "date": "2027-01-30",
+      "endDate": "2027-01-31",
+      "location": "Frankfurt (Oder), Messegelände",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/18612/frankfurt-oder/angel-expo-frankfurt-an-der-oder/info",
+      "validUntil": "2027-02-01",
+      "i18n": {
+        "en": {
+          "text": "The angling fair in Brandenburg with rods, groundbait, lures, boats, fishing trips and trade magazines.",
+          "location": "Frankfurt (Oder), exhibition grounds"
+        },
+        "da": {
+          "text": "Fiskemessen i Brandenburg med stænger, lokkefoder, kunstagn, både, fiskerejser og fagblade.",
+          "location": "Frankfurt (Oder), messeområdet"
+        }
+      }
+    },
+    {
+      "id": "event-fisch-und-angel-dortmund-2027",
+      "category": "event",
+      "title": "FISCH & ANGEL Dortmund",
+      "text": "Messe für Angelfischerei mit Angelausrüstung, Zubehör, Bekleidung und Angelreisen.",
+      "date": "2027-02-02",
+      "endDate": "2027-02-07",
+      "location": "Dortmund, Westfalenhallen",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/15424/dortmund/fisch-und-angel/info",
+      "validUntil": "2027-02-08",
+      "i18n": {
+        "en": {
+          "text": "Fair for recreational angling with fishing gear, accessories, clothing and fishing trips."
+        },
+        "da": {
+          "text": "Messe for lystfiskeri med fiskeudstyr, tilbehør, beklædning og fiskerejser."
+        }
+      }
+    },
+    {
+      "id": "event-faszination-angeln-lingen-2027",
+      "category": "event",
+      "title": "Faszination Angeln Lingen",
+      "text": "Angelmesse mit Vorträgen bekannter Angelspezialisten und Workshops rund um den Angelsport.",
+      "date": "2027-02-20",
+      "endDate": "2027-02-21",
+      "location": "Lingen (Ems)",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/16213/lingen-ems/faszination-angeln/info",
+      "validUntil": "2027-02-22",
+      "i18n": {
+        "en": {
+          "text": "Angling fair with talks by well-known angling specialists and workshops on everything to do with angling."
+        },
+        "da": {
+          "text": "Fiskemesse med foredrag af kendte fiskespecialister og workshops om lystfiskeri."
+        }
+      }
+    },
+    {
+      "id": "info-dorsch-ostsee-2026",
+      "category": "info",
+      "title": "Dorsch: Freizeitfischerei in der westlichen Ostsee 2026 verboten",
+      "text": "Das Land Schleswig-Holstein weist darauf hin, dass die Freizeitfischerei auf Dorsch in der Ostsee auch 2026 ganzjährig verboten ist. Das gilt auch in den Förden (Kieler Förde, Eckernförder Bucht, Flensburger Förde). Ausnahmen gibt es zum Beispiel für die Schlei binnenseitig der Verbindungslinie der Molenköpfe bei Schleimünde. Über die Regeln für 2027 berät der EU-Fischereirat Ende 2026.",
+      "date": "2026-01-09",
+      "sourceName": "Land Schleswig-Holstein",
+      "sourceURL": "https://www.schleswig-holstein.de/DE/Fachinhalte/F/fischerei/dorsch.html",
+      "validUntil": "2026-12-31",
+      "i18n": {
+        "en": {
+          "title": "Cod: recreational fishing in the western Baltic Sea banned in 2026",
+          "text": "The state of Schleswig-Holstein points out that recreational fishing for cod in the Baltic Sea remains banned year-round in 2026. This also applies in the fjords (Kiel Fjord, Eckernförde Bay, Flensburg Fjord). Exceptions exist, for example, for the Schlei on the inland side of the line connecting the pier heads at Schleimünde. The EU Fisheries Council will discuss the rules for 2027 at the end of 2026.",
+          "sourceName": "State of Schleswig-Holstein"
+        },
+        "da": {
+          "title": "Torsk: Lystfiskeri i den vestlige Østersø forbudt i 2026",
+          "text": "Delstaten Slesvig-Holsten gør opmærksom på, at lystfiskeri efter torsk i Østersøen også i 2026 er forbudt hele året. Det gælder også i fjordene (Kieler Förde, Eckernförder Bucht, Flensburger Förde). Der er undtagelser, for eksempel for Slien på den indre side af forbindelseslinjen mellem molehovederne ved Schleimünde. EU's fiskeriråd drøfter reglerne for 2027 i slutningen af 2026.",
+          "sourceName": "Delstaten Slesvig-Holsten"
+        }
+      }
+    },
+    {
+      "id": "info-hering-westliche-ostsee-2026",
+      "category": "info",
+      "title": "Westliche Ostsee: Heringsbestand weiter kritisch",
+      "text": "Nach Einschätzung des Internationalen Rates für Meeresforschung (ICES) befindet sich der Hering in der westlichen Ostsee weiterhin in einem kritischen Zustand. Die Bundesanstalt für Landwirtschaft und Ernährung hat für 2026 Sofortmaßnahmen bekanntgemacht, darunter Schließungszeiten für die Berufsfischerei vom 16. August bis 31. Oktober 2026. Informiere dich vor dem Heringsangeln bei der zuständigen Behörde über die aktuellen Vorgaben für Angler.",
+      "date": "2026-06-15",
+      "sourceName": "BLE, Bekanntmachung vom 15. Juni 2026",
+      "sourceURL": "https://www.lallf.de/fileadmin/media/PDF/fischer/Koll_Foerderung_Fischerei/Hering/Rechtsgrundlagen/Bundesanzeiger_Bekanntmachung_BLE.pdf",
+      "validUntil": "2026-12-31",
+      "i18n": {
+        "en": {
+          "title": "Western Baltic Sea: herring stock still critical",
+          "text": "According to the International Council for the Exploration of the Sea (ICES), the herring stock in the western Baltic Sea is still in a critical state. For 2026, the Federal Office for Agriculture and Food has announced emergency measures, including closed periods for commercial fishing from August 16 to October 31, 2026. Before fishing for herring, check the current rules for anglers with the responsible authority.",
+          "sourceName": "BLE, announcement of June 15, 2026"
+        },
+        "da": {
+          "title": "Vestlige Østersø: Sildebestanden fortsat kritisk",
+          "text": "Ifølge Det Internationale Havundersøgelsesråd (ICES) er sildebestanden i den vestlige Østersø fortsat i en kritisk tilstand. Det tyske forbundskontor for landbrug og fødevarer (BLE) har for 2026 bekendtgjort hasteforanstaltninger, herunder lukkeperioder for erhvervsfiskeriet fra den 16. august til den 31. oktober 2026. Tjek de gældende regler for lystfiskere hos den ansvarlige myndighed, før du fisker efter sild.",
+          "sourceName": "BLE, bekendtgørelse af 15. juni 2026"
+        }
+      }
+    },
+    {
+      "id": "event-aqua-fisch-friedrichshafen-2027",
+      "category": "event",
+      "title": "AQUA-FISCH Friedrichshafen",
+      "text": "Internationale Messe für Angeln, Fliegenfischen und Aquaristik in Friedrichshafen am Bodensee.",
+      "date": "2027-03-05",
+      "endDate": "2027-03-07",
+      "location": "Friedrichshafen",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/7797/friedrichshafen/aqua-fisch/drucken",
+      "validUntil": "2027-03-08",
+      "i18n": {
+        "en": {
+          "text": "International trade fair for angling, fly fishing and aquaristics in Friedrichshafen on Lake Constance."
+        },
+        "da": {
+          "text": "International messe for lystfiskeri, fluefiskeri og akvaristik i Friedrichshafen ved Bodensøen."
+        }
+      }
+    },
+    {
+      "id": "event-karpfen-anglermesse-passau-2027",
+      "category": "event",
+      "title": "Karpfen & Anglermesse Passau",
+      "text": "Messe für Karpfenangler und alle, die gern angeln. Aussteller zeigen Angelkleidung, Ruten, Rollen, Schnüre, Köder und Zubehör.",
+      "date": "2027-03-06",
+      "location": "Passau",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/19212/passau/karpfen-anglermesse-passau/info",
+      "validUntil": "2027-03-07",
+      "i18n": {
+        "en": {
+          "text": "Fair for carp anglers and everyone who enjoys fishing. Exhibitors show clothing, rods, reels, lines, lures and accessories."
+        },
+        "da": {
+          "text": "Messe for karpefiskere og alle, der holder af at fiske. Udstillere viser tøj, stænger, hjul, liner, madding og tilbehør."
+        }
+      }
+    },
+    {
+      "id": "event-carp-expo-magdeburg-2027",
+      "category": "event",
+      "title": "CARP EXPO Magdeburg",
+      "text": "Die Angelmesse für die Region Nordost mit Schwerpunkt Karpfen- und Welsangeln. Der Termin ist laut Messekalender noch geschätzt.",
+      "date": "2027-02-15",
+      "dateText": "voraussichtlich Februar 2027",
+      "location": "Magdeburg, Messe Magdeburg",
+      "sourceName": "messen.de",
+      "sourceURL": "https://www.messen.de/de/22728/magdeburg/carp-expo-elbe-oder-spree/info",
+      "validUntil": "2027-03-01",
+      "i18n": {
+        "en": {
+          "text": "The fishing fair for the north-east region, focused on carp and catfish angling. According to the trade fair calendar, the date is still an estimate.",
+          "dateText": "expected February 2027"
+        },
+        "da": {
+          "text": "Messen for lystfiskere i Nordøst-regionen med fokus på karpe- og mallefiskeri. Ifølge messekalenderen er datoen endnu kun et estimat.",
+          "dateText": "forventet februar 2027"
+        }
+      }
+    },
+    {
+      "id": "news-fisch-des-jahres-2027",
+      "category": "news",
+      "title": "Karausche ist Fisch des Jahres 2027",
+      "text": "Der Deutsche Angelfischerverband (DAFV) hat die Karausche mit 59 Prozent der Stimmen zum Fisch des Jahres 2027 gewählt. Sie gilt bundesweit als stark gefährdet und steht für kleine, pflanzenreiche Stillgewässer. Zur Wahl standen außerdem Nordseeschnäpel und Flussneunauge.",
+      "date": "2026-11-02",
+      "sourceName": "DAFV, Pressemitteilung vom 02.11.2026",
+      "sourceURL": "https://www.dafv.de/projekte/fisch-des-jahres",
+      "validUntil": "2027-03-31",
+      "i18n": {
+        "en": {
+          "title": "Crucian carp is Fish of the Year 2027",
+          "text": "The German Anglers' Association (DAFV) has chosen the crucian carp as Fish of the Year 2027 with 59 percent of the votes. It is considered critically threatened nationwide and stands for small, vegetation-rich still waters. The other candidates were the North Sea houting and the European river lamprey.",
+          "sourceName": "DAFV, press release of 02.11.2026"
+        },
+        "da": {
+          "title": "Karuds er Årets fisk 2027",
+          "text": "Den tyske lystfiskerforening (DAFV) har valgt karudsen til Årets fisk 2027 med 59 procent af stemmerne. Den anses for at være stærkt truet på landsplan og står for små, planterige stillevande. De øvrige kandidater var nordsøsnæbel og flodlampret.",
+          "sourceName": "DAFV, pressemeddelelse af 02.11.2026"
+        }
+      }
+    },
+    {
+      "id": "info-nrw-fischereischein-2026",
+      "category": "info",
+      "regions": [
+        "nw"
+      ],
+      "title": "NRW: Neuer digitaler Fischereischein",
+      "text": "Seit dem 1. Juli 2026 gilt in Nordrhein-Westfalen das geänderte Landesfischereigesetz. Fischereischeine gibt es im neuen Format als fälschungssichere Scheckkarte mit NFC-Chip und als elektronisches Zertifikat auf dem Smartphone. Wer seine Fischerprüfung oder seinen Schein vor dem 3. Juli 2026 hatte, muss den neuen Schein einmalig bei der zuständigen Gemeinde beantragen.",
+      "date": "2026-07-01",
+      "sourceName": "Land NRW, Pressemitteilung vom 29.06.2026",
+      "sourceURL": "https://www.land.nrw/pressemitteilung/modern-und-faelschungssicher-nordrhein-westfalen-fuehrt-digitalen-fischereischein",
+      "validUntil": "2027-03-31",
+      "i18n": {
+        "en": {
+          "title": "NRW: New digital fishing licence",
+          "text": "Since 1 July 2026, the amended State Fisheries Act has applied in North Rhine-Westphalia. Fishing licences are available in the new format as a forgery-proof card with an NFC chip and as an electronic certificate on your smartphone. If you passed your fishing exam or received your licence before 3 July 2026, you must apply once for the new licence at your local municipality.",
+          "sourceName": "State of NRW, press release of 29.06.2026"
+        },
+        "da": {
+          "title": "NRW: Nyt digitalt fiskekort",
+          "text": "Siden 1. juli 2026 gælder den ændrede fiskerilov i Nordrhein-Westfalen. Fiskekort findes i det nye format som et forfalskningssikkert kort med NFC-chip og som elektronisk certifikat på smartphonen. Har du bestået fiskeriprøven eller fået dit kort før 3. juli 2026, skal du ansøge om det nye kort én gang hos din kommune.",
+          "sourceName": "Delstaten NRW, pressemeddelelse af 29.06.2026"
+        }
+      }
+    },
+    {
+      "id": "rules-mv-kuestenfischerei-2026",
+      "category": "rules",
+      "regions": [
+        "mv"
+      ],
+      "title": "MV Küste: Neue Fangregeln für Hecht, Barsch und Meerforelle",
+      "text": "In den Küstengewässern Mecklenburg-Vorpommerns gilt eine geänderte Küstenfischereiverordnung. Hecht: Mindestmaß 60 cm, Obergrenze 90 cm in der Handangelfischerei, höchstens 1 Hecht pro Person und Tag. Barsch: höchstens 15 pro Person und Tag. Meerforelle: Mindestmaß 48 cm. Die bisherige Schonzeit für Steinbutt im Landesrecht entfällt. Das gilt für Bodden, Haffe und Ostsee, nicht für Binnengewässer. Prüfe die genaue Fassung beim LALLF.",
+      "date": "2026-09-29",
+      "sourceName": "Anglerboard, nach Angaben des Umweltministeriums M-V, Stand 29.09.2026",
+      "sourceURL": "https://www.anglerboard.de/threads/neue-fangregeln-in-mv.365944/",
+      "validUntil": "2027-06-30",
+      "i18n": {
+        "en": {
+          "title": "MV coast: new catch rules for pike, perch and sea trout",
+          "text": "A revised coastal fisheries ordinance applies in the coastal waters of Mecklenburg-Western Pomerania. Pike: minimum size 60 cm, upper limit 90 cm for rod fishing, at most 1 pike per person per day. Perch: at most 15 per person per day. Sea trout: minimum size 48 cm. The previous closed season for turbot in state law is dropped. This applies to the lagoons (Bodden), haffs and the Baltic Sea, not to inland waters. Check the exact wording with the LALLF.",
+          "sourceName": "Anglerboard, citing the Ministry of the Environment of M-V, as of 29.09.2026"
+        },
+        "da": {
+          "title": "MV-kysten: Nye fangstregler for gedde, aborre og havørred",
+          "text": "I Mecklenburg-Vorpommerns kystfarvande gælder en ændret kystfiskeriforordning. Gedde: mindstemål 60 cm, øvre grænse 90 cm ved stangfiskeri, højst 1 gedde pr. person pr. dag. Aborre: højst 15 pr. person pr. dag. Havørred: mindstemål 48 cm. Den hidtidige fredningstid for pighvar i landsretten bortfalder. Det gælder boddene, haffene og Østersøen, ikke indre vande. Tjek den nøjagtige ordlyd hos LALLF.",
+          "sourceName": "Anglerboard, med henvisning til miljøministeriet i M-V, pr. 29.09.2026"
+        }
+      }
+    },
+    {
+      "id": "info-aal-sh-2026",
+      "category": "info",
+      "regions": [
+        "sh"
+      ],
+      "title": "Aal: In Nord- und Ostsee kein gezieltes Angeln bis März 2027",
+      "text": "Das Land Schleswig-Holstein weist darauf hin: In Nord- und Ostsee ist das gezielte Angeln auf Aal nicht zulässig. Zufällig mitgefangene Aale musst du unverzüglich schonend zurücksetzen. Die Schonzeit der Erwerbsfischerei läuft in der Ostsee vom 15.09.2026 bis 15.03.2027 und in der Nordsee vom 01.09.2026 bis 28.02.2027. Die Regelung gilt für 2026 und bis zum Ablauf dieser Schonzeit im Jahr 2027.",
+      "sourceName": "Land Schleswig-Holstein",
+      "sourceURL": "https://www.schleswig-holstein.de/DE/fachinhalte/F/fischerei/aalverordnung_anpassung",
+      "validUntil": "2027-03-15",
+      "i18n": {
+        "en": {
+          "title": "Eel: no targeted fishing in the North Sea and Baltic Sea until March 2027",
+          "text": "The state of Schleswig-Holstein points out that targeted angling for eel is not permitted in the North Sea and the Baltic Sea. Eels caught by accident must be released gently without delay. The closed season for commercial fishing runs from 15.09.2026 to 15.03.2027 in the Baltic Sea and from 01.09.2026 to 28.02.2027 in the North Sea. The rule applies for 2026 and until the end of this closed season in 2027.",
+          "sourceName": "State of Schleswig-Holstein"
+        },
+        "da": {
+          "title": "Ål: Intet målrettet fiskeri i Nord- og Østersøen indtil marts 2027",
+          "text": "Delstaten Slesvig-Holsten gør opmærksom på, at målrettet lystfiskeri efter ål ikke er tilladt i Nordsøen og Østersøen. Ål, der fanges ved et tilfælde, skal straks genudsættes skånsomt. Fredningstiden for erhvervsfiskeriet løber i Østersøen fra 15.09.2026 til 15.03.2027 og i Nordsøen fra 01.09.2026 til 28.02.2027. Reglen gælder for 2026 og indtil udløbet af denne fredningstid i 2027.",
+          "sourceName": "Delstaten Slesvig-Holsten"
+        }
+      }
+    }
+  ]
+}
